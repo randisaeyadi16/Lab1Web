@@ -1,6 +1,8 @@
 # Lab1Web
 Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata kuliah Pemrograman Web
 
+[PRAKTIKUM 1 - PEMROGRAMAN WEB] RANDI SAEPUDIN KUSMAYADI - 311910769 - TI.19-A3
+
 1. [MEMBUAT HEADING dan PARAGRAF] ini adalah codingan HTML untuk membuat heading dan paragraf
 
     ![1](https://user-images.githubusercontent.com/59683573/112939877-702acc00-9156-11eb-9569-a1d518f625e4.png)
@@ -69,14 +71,4 @@ SOAL DAN JAWABAN
 
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut? : pada          atribut target variasi self akan membuka link di frame link itu berada. pada atribut target variasi blank akan membuka link di tab baru, pada atribut target bervariasi          parent akan membuka link di frame yang satu tingkat di atas frame link tersebut berada, pada atribut target bervariasi top akan membuka link di frame paling atas (paling        luar).
 
-    
-
-
-
-
-
-
-
-
-
-
+[SELESAI]
