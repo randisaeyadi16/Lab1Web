@@ -50,16 +50,16 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mataku
 
 # Pertanyaan dan Jawaban
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
-   >Jawab : Tidak ada.
+   >Jawaban : Tidak ada.
 
 2. Apa perbedaan dari tag p dengan tag br, berikan penjelasannya!
-   >Jawab : tag p berguna untuk membuat paragraph baru atau pindah alinea sedangkan tag br digunakan untuk pindah ke baris baru.
+   >Jawaban : tag p berguna untuk membuat paragraph baru atau pindah alinea sedangkan tag br digunakan untuk pindah ke baris baru.
 
 3. Apa perbedaan atribut title dan alt pada tag img, berikan penjelasannya!
-   >Jawab : Alt text atau text alternatif adalah atribut HTML yang menentukan teks alternatif yang akan ditampilkan saat foto tidak dapat ditampilkan. sedangkan Title image ini digunakan untuk memberikan judul untuk gambar
+   >Jawaban : Alt text atau text alternatif adalah atribut HTML yang menentukan teks alternatif yang akan ditampilkan saat foto tidak dapat ditampilkan. sedangkan Title image ini digunakan untuk memberikan judul untuk gambar
 
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
-   >Jawab : Diisi semua karena Atribut tersebut tentunya digunakan dalam tag image yang hanya ingin diatur ukurannya, keduanya perlu diatur sesuai keinginan agar hasilnya terlihat pas dan proposional.
+   >Jawaban : Diisi semua karena Atribut tersebut tentunya digunakan dalam tag image yang hanya ingin diatur ukurannya, keduanya perlu diatur sesuai keinginan agar hasilnya terlihat pas dan proposional.
 
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
-   >Jawab : Pada atribut target variasi self akan membuka link di frame link itu berada. pada atribut target variasi blank akan membuka link di tab baru, pada atribut target bervariasi parent akan membuka link di frame yang satu tingkat di atas frame link tersebut berada, pada atribut target bervariasi top akan membuka link di frame paling atas (paling luar).
+   >Jawaban : Pada atribut target variasi self akan membuka link di frame link itu berada. pada atribut target variasi blank akan membuka link di tab baru, pada atribut target bervariasi parent akan membuka link di frame yang satu tingkat di atas frame link tersebut berada, pada atribut target bervariasi top akan membuka link di frame paling atas (paling luar).
