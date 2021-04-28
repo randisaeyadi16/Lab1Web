@@ -1,8 +1,13 @@
 # Lab1Web
-Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata kuliah Pemrograman Web
+Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas matakuliah Pemrograman Web.
+- NIM   : 311910769
+- Nama Mahasiswa  : Randi Saepudin Kusmayadi
+- Kelas : TI.19-A3
+- Matakuliah  : Pemrograman Web
+- Dosen Pengampu  : Agung Nugroho, S.Kom., M.Kom.
+- Prodi/Semester  : Teknik Informatika / IV (Empat)
 
-[PRAKTIKUM 1 - PEMROGRAMAN WEB] RANDI SAEPUDIN KUSMAYADI - 311910769 - TI.19-A3
-
+# Laporan Praktikum
 1. [MEMBUAT HEADING dan PARAGRAF] ini adalah codingan HTML untuk membuat heading dan paragraf
 
     ![1](https://user-images.githubusercontent.com/59683573/112939877-702acc00-9156-11eb-9569-a1d518f625e4.png)
@@ -59,9 +64,10 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata k
     ![13](https://user-images.githubusercontent.com/59683573/112948830-b8e88200-9162-11eb-9e0c-fce254298bef.png)
 
 
-SOAL DAN JAWABAN
+# Pertanyaan dan Jawaban
 
-1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag? : tidak ada
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+   >Jawab : Tidak ada.
 
 2. Apa perbedaan dari tag p dengan tag br, berikan penjelasannya!: tag p berguna unutk membuat paragraph baru atau pindah alinea sedangkan tag br di gunakan untuk pindah ke        baris baru
 
